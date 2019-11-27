@@ -1,6 +1,6 @@
 # Predictions using the Weight Lifting Exercises Dataset
 Muntakimur Rahaman
-27 November 2019  
+27 Nov 2019  
 
 
 
